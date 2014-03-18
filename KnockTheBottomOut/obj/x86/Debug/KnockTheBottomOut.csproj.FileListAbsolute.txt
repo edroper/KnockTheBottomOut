@@ -1,0 +1,7 @@
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\bin\Debug\KnockTheBottomOut.exe
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\bin\Debug\KnockTheBottomOut.pdb
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\obj\x86\Debug\KnockTheBottomOut.exe
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\obj\x86\Debug\KnockTheBottomOut.pdb
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\bin\Debug\CommandLine.dll
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\bin\Debug\CommandLine.xml
+C:\Users\eroper\Desktop\Projects\KnockTheBottomOut\KnockTheBottomOut\obj\x86\Debug\KnockTheBottomOut.csprojResolveAssemblyReference.cache
